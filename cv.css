@@ -12,4 +12,21 @@
       <h1>Your Name</h1>
       <p>📧 your.email@example.com • 📱 +XX‑XXXX‑XXXX • Location, Country</p>
     </header>
+<section>
+      <h2>Qualifications</h2>
+      <div class="box">
+        <h3>Professional Qualification / Degree</h3>
+        <p><em>Institution Name</em>, YYYY – YYYY (Or “Ongoing”)</p>
+        <ul>
+          <li>Major subject, GPA (if > 3.5 or relevant)</li>
+          <li>Awarded “Best Project” for final-year thesis: <em>Title or short summary</em></li>
+        </ul>
+
+        <h3>Certified Course or Other Qualification</h3>
+        <p><em>Issuing Organization</em>, Month YYYY</p>
+        <ul>
+          <li>Brief detail of what you learned (e.g. “Advanced Excel for analytics”)</li>
+        </ul>
+      </div>
+    </section>
 
