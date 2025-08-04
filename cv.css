@@ -1,0 +1,11 @@
+@media print {
+      body { background: none; }
+      .container { box-shadow: none; padding: 0; }
+      .box { background: none; padding: 0; page-break-inside: avoid; }
+      .skills-list span { background: #ddd; color: #333; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
