@@ -28,7 +28,9 @@ i@media print {
         <h3>Certified Course or Other Qualification</h3>
         <p><em>Issuing Organization</em>, Month YYYY</p>
         <ul>
+<<<<<<< HEAD
           <li>Brief detail of what you learned (e.g. “html js and dataanalysist”)</li>
+=======
           <li>Brief detail of what you learned (e.g. “Advanced Excel for analy<section>
       <h2>Hobbies & Interests</h2>
       <div class="box">
@@ -36,24 +38,13 @@ i@media print {
           <li>Travel & culture blogging – exploring 6 countries and sharing tips via online blog (related to research, communication skills)</li>
           <li>Team sports (e.g., volleyball) – develops teamwork, discipline, and leadership</li>
           <li>Open‑source coding – contribution to GitHub community and hackathons</tics”)</li>
+>>>>>>> hobbies
         </ul>
       </div>
     </section>
     </ul>
-        <p>Tip: Keep to 4-5 hobbies that reinforce your soft skills and relevance to your goals. Avoid unrelated personal interests that don’t add value to your career profile.</p>
-      </div>
-    </section>
-<section>
-      <h2>Hobbies & Interests</h2>
-      <div class="box">
-        <ul>
-          <li>Travel & culture blogging – exploring 6 countries and sharing tips via online blog (related to research, communication skills)</li>
-          <li>Team sports (e.g., volleyball) – develops teamwork, discipline, and leadership</li>
-          <li>Open‑source coding – contribution to GitHub community and hackathons</li>
-        </ul>
         <p>Tip: Keep to 3–5 hobbies that reinforce your soft skills and relevance to your goals. Avoid unrelated personal interests that don’t add value to your career profile.</p>
       </div>
     </section>
-
 
 
