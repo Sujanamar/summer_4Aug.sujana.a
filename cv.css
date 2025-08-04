@@ -1,4 +1,4 @@
-@media print {
+i@media print {
       body { background: none; }
       .container { box-shadow: none; padding: 0; }
       .box { background: none; padding: 0; page-break-inside: avoid; }
@@ -16,16 +16,19 @@
       <h2>Qualifications</h2>
       <div class="box">
         <h3>Professional Qualification / Degree</h3>
+
         <p><em>navkis residential college</em>, YYYY – YYYY (Or “Ongoing”)</p>
+
+        <p><em>navkis residential pu college </em>, YYYY – YYYY (Or “Ongoing”)</p>
         <ul>
-          <li>Major subject, GPA (if > 3.5 or relevant)</li>
+          <li>Major subject, GPA (if > 0.3 or relevant)</li>
           <li>Awarded “Best Project” for final-year thesis: <em>Title or short summary</em></li>
         </ul>
 
         <h3>Certified Course or Other Qualification</h3>
         <p><em>Issuing Organization</em>, Month YYYY</p>
         <ul>
-          <li>Brief detail of what you learned (e.g. “Advanced Excel for analytics”)</li>
+          <li>Brief detail of what you learned (e.g. “html js and dataanalysist”)</li>
         </ul>
       </div>
     </section>
